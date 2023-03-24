@@ -1,5 +1,5 @@
-# Master_Consalt
-Diplom_project Master_Consalt
+# Master_Consult
+Diplom_project Master_Conult
 
 * Первый этап (всего планируется три этапа)
 
