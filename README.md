@@ -1,5 +1,5 @@
 # Master_Consult
-Diplom_project Master_Conult
+Diplom_project Master_Consult
 
 * Первый этап (всего планируется три этапа)
 
